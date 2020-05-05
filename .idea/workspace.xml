@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16af4ec1-e7a6-41e2-9c25-05818e74ecfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bOzcv4auytmZfeNBgyAL3ynevS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.BarTest.degreesToRadiansTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="taskDiscussionBAR-ME" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taskDiscussionBAR-ME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarTest.degreesToRadiansTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taskDiscussionBAR-ME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BarTest" />
+      <option name="METHOD_NAME" value="degreesToRadiansTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BarTest.degreesToRadiansTest" />
+        <item itemvalue="JUnit.BarTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16af4ec1-e7a6-41e2-9c25-05818e74ecfa" name="Default Changelist" comment="" />
+      <created>1588518010631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588518010631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="231" key="GridCell.Tab.0.bottom" timestamp="1588694179527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="980" height="187" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1588657424300" />
+    <state width="1322" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588694179527" />
+    <state width="1322" height="231" key="GridCell.Tab.0.center" timestamp="1588694179526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="980" height="187" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1588657424300" />
+    <state width="1322" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588694179526" />
+    <state width="1322" height="231" key="GridCell.Tab.0.left" timestamp="1588694179526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="980" height="187" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1588657424300" />
+    <state width="1322" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588694179526" />
+    <state width="1322" height="231" key="GridCell.Tab.0.right" timestamp="1588694179526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="980" height="187" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1588657424300" />
+    <state width="1322" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588694179526" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588693100851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588693100851" />
+    <state x="387" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588690824351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1588690824351" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1588684465026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588684465026" />
+  </component>
+</project>
