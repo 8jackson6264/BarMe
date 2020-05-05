@@ -72,22 +72,22 @@ public class Map {
 
             if (bar.getLatitude() > lat && bar.getLongitude() > lon) {
                 indexLat = map[0].length / 2 - 1 + (int) distanceOnLatitude / 50;
-                indexLon = map.length / 2 - 1 - (int) distanceOnLatitude / 50;
+                indexLon = map.length / 2 - 1 - (int) distanceOnLongitude / 50;
                 map[indexLon][indexLat] = " " + count + "  ";
                 count++;
             } else if (bar.getLatitude() < lat && bar.getLongitude() > lon) {
                 indexLat = map[0].length / 2 - 1 - (int) distanceOnLatitude / 50;
-                indexLon = map.length / 2 - 1 - (int) distanceOnLatitude / 50;
+                indexLon = map.length / 2 - 1 - (int) distanceOnLongitude / 50;
                 map[indexLon][indexLat] = " " + count + "  ";
                 count++;
             } else if (bar.getLatitude() > lat && bar.getLongitude() < lon) {
                 indexLat = map[0].length / 2 - 1 + (int) distanceOnLatitude / 50;
-                indexLon = map.length / 2 - 1 + (int) distanceOnLatitude / 50;
+                indexLon = map.length / 2 - 1 + (int) distanceOnLongitude / 50;
                 map[indexLon][indexLat] = " " + count + "  ";
                 count++;
             } else if (bar.getLatitude() < lat && bar.getLongitude() < lon) {
                 indexLat = map[0].length / 2 - 1 - (int) distanceOnLatitude / 50;
-                indexLon = map.length / 2 - 1 + (int) distanceOnLatitude / 50;
+                indexLon = map.length / 2 - 1 + (int) distanceOnLongitude / 50;
                 map[indexLon][indexLat] = " " + count + "  ";
                 count++;
             }
