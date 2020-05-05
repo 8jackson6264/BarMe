@@ -32,7 +32,7 @@ public class Main {
                     barList.printOpenBars(returnTime(), lat, lon);
                     break;
                 case 3:
-                    barList.printMap(lat, lon);
+                    new Map().printBarsOnMap(lat, lon, barList.bars);
                     break;
                 case 0:
                     System.exit(0);

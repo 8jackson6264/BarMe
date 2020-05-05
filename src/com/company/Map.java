@@ -28,7 +28,7 @@ public class Map {
                 nearbyBars.add(bar);
             }
         }
-        return (Bar[]) nearbyBars.toArray();
+        return nearbyBars.toArray(new Bar[0]);
     }
 
     private String[][] fillMapWithInitialValues(String[][] map) {
